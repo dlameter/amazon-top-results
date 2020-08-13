@@ -15,3 +15,6 @@ A config.json file must be placed in the same directory as the python code when 
 ```
 
 The value of address points to the search URL of amazon, and the value of driver points to the webdriver for chrome on your local drive.
+
+## Libraries
+This project uses the python selenium library to perform web requests and to navigate the dynamically generated website.
